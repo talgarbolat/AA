@@ -1,12 +1,14 @@
 body{font-family: "Montserrat";}
 
-#title {background-color: #F4F4F2;
-}
+a{color: inherit;}
+
+#title {background-color: #F4F4F2;}
+
 .container-fluid{
-  padding: 3% 15% 6%;
+  padding: 3% 15.5% 6%;
 }
 .navbar{
-  padding-bottom:3rem;}
+  padding-bottom: 3rem;}
 
 .nav-item{
   padding: 0 15px;
@@ -15,6 +17,7 @@ body{font-family: "Montserrat";}
   font-family: "Lora";
   color: #000;
 }
+
 .Slogon{font-size: 4rem;
   font-weight: bold;
   color: #000;
@@ -28,6 +31,7 @@ body{font-family: "Montserrat";}
   padding: 5%;
 }
 
+
 h4{
   color: #8f8f8f;
 margin-bottom: 1.5rem;}
@@ -40,9 +44,14 @@ h4:hover{
   font-weight: bold;
 }
 
+.click-1{font-weight: bold;
+text-align: right;}
+
 h6{
   padding-top: 4%;
 }
+
+.row2{text-align: justify;}
 
 .icon{
   color:#8f8f8f;
@@ -53,26 +62,30 @@ h6{
   color:#000;
 }
 
-#service{padding: 6% 16% 6% 12%;
+#service{padding: 6% 16% 3% 12%;
   background-color: #BBBFCA;}
+
+
+.s{padding-top: 4%;}
 
 #contact{padding: 6% 16% 6% 12%;
     background-color: #495464;
   color: #fff;}
 
-  .Slogon2{font-size: 4.5rem;
+  .Slogon2{font-size: 3rem;
     font-weight: bold;
     color: #fff;
     padding-left: 6%;
-    text-align: lef;
+    text-align: left;
   }
 
   .email{
     text-align:right;
-    padding-top: 47%;
+    padding-top: 20%;
   }
 
-  #footer{padding: 6% 16% 6% 12%;
+
+#footer{padding: 6% 16% 2% 12%;
     background-color: #F4F4F2;
     font-family: "Lora";}
 
@@ -80,7 +93,7 @@ h6{
 
 .company{text-align: right;}
 
-.white-section{text-align: center;
-}
+.ending{text-align: center;
+padding-top: 3%;}
 
-.social-icon{padding: 0 0 0 10px;}
+.social-icon{padding: 15px 15px}
